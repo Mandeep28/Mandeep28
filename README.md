@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at DAV college.
-- 🌱 &nbsp; Learning Full stack eWb Development in MERN.
-- ✍️ &nbsp; Interested in playing games and exploring new ideas .
+- 🎓 &nbsp; Studying Bachlore of Computer Application at DAV college.
+- 🌱 &nbsp; Learning Full stack Web Development in MERN.
+- ✍️ &nbsp; Interested in playing video games and exploring new ideas .
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
